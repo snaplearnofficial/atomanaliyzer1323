@@ -1,0 +1,480 @@
+{
+  "projects": [
+    {
+      "id": "dtf7ido8a",
+      "name": "FCC Lattice [2x2x2]",
+      "type": "3d",
+      "atomCount": 63,
+      "coordinates": [
+        {
+          "id": "ek3e8eh",
+          "element": "Au",
+          "x": -2.04,
+          "y": -2.04,
+          "z": -2.04
+        },
+        {
+          "id": "s4ryks2",
+          "element": "Au",
+          "x": 0,
+          "y": 0,
+          "z": -2.04
+        },
+        {
+          "id": "gieltww",
+          "element": "Au",
+          "x": -2.04,
+          "y": 0,
+          "z": 0
+        },
+        {
+          "id": "oqoy5ip",
+          "element": "Au",
+          "x": 0,
+          "y": -2.04,
+          "z": 0
+        },
+        {
+          "id": "m5myh6m",
+          "element": "Au",
+          "x": -2.04,
+          "y": -2.04,
+          "z": 2.04
+        },
+        {
+          "id": "vrovddw",
+          "element": "Au",
+          "x": 0,
+          "y": 0,
+          "z": 2.04
+        },
+        {
+          "id": "kypsup5",
+          "element": "Au",
+          "x": -2.04,
+          "y": 0,
+          "z": 4.08
+        },
+        {
+          "id": "j8xtglp",
+          "element": "Au",
+          "x": 0,
+          "y": -2.04,
+          "z": 4.08
+        },
+        {
+          "id": "w68k87x",
+          "element": "Au",
+          "x": -2.04,
+          "y": -2.04,
+          "z": 6.12
+        },
+        {
+          "id": "jv5ahs5",
+          "element": "Au",
+          "x": 0,
+          "y": 0,
+          "z": 6.12
+        },
+        {
+          "id": "0me208u",
+          "element": "Au",
+          "x": -2.04,
+          "y": 2.04,
+          "z": -2.04
+        },
+        {
+          "id": "i57ble9",
+          "element": "Au",
+          "x": 0,
+          "y": 4.08,
+          "z": -2.04
+        },
+        {
+          "id": "p6rh0co",
+          "element": "Au",
+          "x": -2.04,
+          "y": 4.08,
+          "z": 0
+        },
+        {
+          "id": "tqs0ker",
+          "element": "Au",
+          "x": 0,
+          "y": 2.04,
+          "z": 0
+        },
+        {
+          "id": "qeo9l19",
+          "element": "Au",
+          "x": -2.04,
+          "y": 2.04,
+          "z": 2.04
+        },
+        {
+          "id": "ss6qhqy",
+          "element": "Au",
+          "x": 0,
+          "y": 4.08,
+          "z": 2.04
+        },
+        {
+          "id": "ceg1y76",
+          "element": "Au",
+          "x": -2.04,
+          "y": 4.08,
+          "z": 4.08
+        },
+        {
+          "id": "2bv9i1q",
+          "element": "Au",
+          "x": 0,
+          "y": 2.04,
+          "z": 4.08
+        },
+        {
+          "id": "avlevzv",
+          "element": "Au",
+          "x": -2.04,
+          "y": 2.04,
+          "z": 6.12
+        },
+        {
+          "id": "5xcxbiv",
+          "element": "Au",
+          "x": 0,
+          "y": 4.08,
+          "z": 6.12
+        },
+        {
+          "id": "nuq7lbq",
+          "element": "Au",
+          "x": -2.04,
+          "y": 6.12,
+          "z": -2.04
+        },
+        {
+          "id": "3ippxss",
+          "element": "Au",
+          "x": 0,
+          "y": 6.12,
+          "z": 0
+        },
+        {
+          "id": "3hw0q0t",
+          "element": "Au",
+          "x": -2.04,
+          "y": 6.12,
+          "z": 2.04
+        },
+        {
+          "id": "6uupn8h",
+          "element": "Au",
+          "x": 0,
+          "y": 6.12,
+          "z": 4.08
+        },
+        {
+          "id": "5rg5nak",
+          "element": "Au",
+          "x": -2.04,
+          "y": 6.12,
+          "z": 6.12
+        },
+        {
+          "id": "dmlk6er",
+          "element": "Au",
+          "x": 2.04,
+          "y": -2.04,
+          "z": -2.04
+        },
+        {
+          "id": "vz0a9xw",
+          "element": "Au",
+          "x": 4.08,
+          "y": 0,
+          "z": -2.04
+        },
+        {
+          "id": "gh2bwjh",
+          "element": "Au",
+          "x": 2.04,
+          "y": 0,
+          "z": 0
+        },
+        {
+          "id": "owp9b3m",
+          "element": "Au",
+          "x": 4.08,
+          "y": -2.04,
+          "z": 0
+        },
+        {
+          "id": "36ge4gy",
+          "element": "Au",
+          "x": 2.04,
+          "y": -2.04,
+          "z": 2.04
+        },
+        {
+          "id": "lnd62gy",
+          "element": "Au",
+          "x": 4.08,
+          "y": 0,
+          "z": 2.04
+        },
+        {
+          "id": "qjrh493",
+          "element": "Au",
+          "x": 2.04,
+          "y": 0,
+          "z": 4.08
+        },
+        {
+          "id": "pudeqmr",
+          "element": "Au",
+          "x": 4.08,
+          "y": -2.04,
+          "z": 4.08
+        },
+        {
+          "id": "81do8uy",
+          "element": "Au",
+          "x": 2.04,
+          "y": -2.04,
+          "z": 6.12
+        },
+        {
+          "id": "l16myyj",
+          "element": "Au",
+          "x": 4.08,
+          "y": 0,
+          "z": 6.12
+        },
+        {
+          "id": "p70ma65",
+          "element": "Au",
+          "x": 2.04,
+          "y": 2.04,
+          "z": -2.04
+        },
+        {
+          "id": "3bvxmug",
+          "element": "Au",
+          "x": 4.08,
+          "y": 4.08,
+          "z": -2.04
+        },
+        {
+          "id": "bsyo6yx",
+          "element": "Au",
+          "x": 2.04,
+          "y": 4.08,
+          "z": 0
+        },
+        {
+          "id": "jmehxjv",
+          "element": "Au",
+          "x": 4.08,
+          "y": 2.04,
+          "z": 0
+        },
+        {
+          "id": "vk1wuub",
+          "element": "Au",
+          "x": 2.04,
+          "y": 2.04,
+          "z": 2.04
+        },
+        {
+          "id": "23nvcqe",
+          "element": "Au",
+          "x": 4.08,
+          "y": 4.08,
+          "z": 2.04
+        },
+        {
+          "id": "ji9mvlf",
+          "element": "Au",
+          "x": 2.04,
+          "y": 4.08,
+          "z": 4.08
+        },
+        {
+          "id": "hniwxwp",
+          "element": "Au",
+          "x": 4.08,
+          "y": 2.04,
+          "z": 4.08
+        },
+        {
+          "id": "qga5f7k",
+          "element": "Au",
+          "x": 2.04,
+          "y": 2.04,
+          "z": 6.12
+        },
+        {
+          "id": "5x9554h",
+          "element": "Au",
+          "x": 4.08,
+          "y": 4.08,
+          "z": 6.12
+        },
+        {
+          "id": "bwmuyd8",
+          "element": "Au",
+          "x": 2.04,
+          "y": 6.12,
+          "z": -2.04
+        },
+        {
+          "id": "loxolpl",
+          "element": "Au",
+          "x": 4.08,
+          "y": 6.12,
+          "z": 0
+        },
+        {
+          "id": "j3npthi",
+          "element": "Au",
+          "x": 2.04,
+          "y": 6.12,
+          "z": 2.04
+        },
+        {
+          "id": "jmw1jmu",
+          "element": "Au",
+          "x": 4.08,
+          "y": 6.12,
+          "z": 4.08
+        },
+        {
+          "id": "ockqzr1",
+          "element": "Au",
+          "x": 2.04,
+          "y": 6.12,
+          "z": 6.12
+        },
+        {
+          "id": "9kxl0rn",
+          "element": "Au",
+          "x": 6.12,
+          "y": -2.04,
+          "z": -2.04
+        },
+        {
+          "id": "hmkkeaq",
+          "element": "Au",
+          "x": 6.12,
+          "y": 0,
+          "z": 0
+        },
+        {
+          "id": "g2jr0wu",
+          "element": "Au",
+          "x": 6.12,
+          "y": -2.04,
+          "z": 2.04
+        },
+        {
+          "id": "b0qnmvj",
+          "element": "Au",
+          "x": 6.12,
+          "y": 0,
+          "z": 4.08
+        },
+        {
+          "id": "ylplhyh",
+          "element": "Au",
+          "x": 6.12,
+          "y": -2.04,
+          "z": 6.12
+        },
+        {
+          "id": "kpyjddi",
+          "element": "Au",
+          "x": 6.12,
+          "y": 2.04,
+          "z": -2.04
+        },
+        {
+          "id": "q1a930c",
+          "element": "Au",
+          "x": 6.12,
+          "y": 4.08,
+          "z": 0
+        },
+        {
+          "id": "dhp0mcq",
+          "element": "Au",
+          "x": 6.12,
+          "y": 2.04,
+          "z": 2.04
+        },
+        {
+          "id": "jl15xqw",
+          "element": "Au",
+          "x": 6.12,
+          "y": 4.08,
+          "z": 4.08
+        },
+        {
+          "id": "tl1b1vt",
+          "element": "Au",
+          "x": 6.12,
+          "y": 2.04,
+          "z": 6.12
+        },
+        {
+          "id": "52ibouq",
+          "element": "Au",
+          "x": 6.12,
+          "y": 6.12,
+          "z": -2.04
+        },
+        {
+          "id": "672bp1l",
+          "element": "Au",
+          "x": 6.12,
+          "y": 6.12,
+          "z": 2.04
+        },
+        {
+          "id": "o1x1nyx",
+          "element": "Au",
+          "x": 6.12,
+          "y": 6.12,
+          "z": 6.12
+        }
+      ],
+      "settings": {
+        "presetType": "fcc",
+        "bondDistance": 3.06,
+        "latticeConstant": 4.08
+      },
+      "image": null,
+      "updatedAt": "2026-06-07T10:46:26.151Z",
+      "createdAt": "2026-06-07T10:46:24.825Z"
+    }
+  ],
+  "users": {
+    "mondalshubhra8@gmail.com": {
+      "password": "@anikmonL209",
+      "isPremium": true,
+      "subscriptionType": "invited",
+      "invitedMembers": [],
+      "createdAt": "2026-06-07T11:23:51.404Z",
+      "invitedBy": "mranikmondal1443@gmail.com"
+    },
+    "mranikmondal1443@gmail.com": {
+      "password": "@anikmonL20913",
+      "isPremium": true,
+      "subscriptionType": "lab-group",
+      "invitedMembers": [
+        "mondalshubhra8@gmail.com"
+      ],
+      "createdAt": "2026-06-07T11:36:07.486Z"
+    }
+  }
+}
